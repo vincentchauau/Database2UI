@@ -1,0 +1,11 @@
+D:\Project\C#\BuildingManager\Database2UI\bin\Debug\Database2UI.exe.config
+D:\Project\C#\BuildingManager\Database2UI\obj\Debug\Database2UI.csprojResolveAssemblyReference.cache
+D:\Project\C#\BuildingManager\Database2UI\obj\Debug\Database2UI.frmMain.resources
+D:\Project\C#\BuildingManager\Database2UI\obj\Debug\Database2UI.Properties.Resources.resources
+D:\Project\C#\BuildingManager\Database2UI\obj\Debug\Database2UI.csproj.GenerateResource.Cache
+D:\Project\C#\BuildingManager\Database2UI\bin\Debug\Database2UI.exe
+D:\Project\C#\BuildingManager\Database2UI\bin\Debug\Database2UI.pdb
+D:\Project\C#\BuildingManager\Database2UI\bin\Debug\System.Data.SQLite.dll
+D:\Project\C#\BuildingManager\Database2UI\obj\Debug\Database2UI.exe
+D:\Project\C#\BuildingManager\Database2UI\obj\Debug\Database2UI.pdb
+D:\Project\C#\BuildingManager\Database2UI\obj\Debug\Database2UI.csproj.ResolveComReference.cache
